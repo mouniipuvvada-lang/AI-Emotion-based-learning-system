@@ -1,0 +1,6 @@
+{
+  "name": "MindGrow – AI Emotion Based Learning System",
+  "description": "An adaptive AI-powered learning platform with real-time facial emotion detection, staged intelligent hints, comprehensive domain quizzes, and personal progress analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
